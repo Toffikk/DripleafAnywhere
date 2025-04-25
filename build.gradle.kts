@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.dripleafanywhere"
-version = "1.0.0"
+version = "1.0.1"
 description = "Place dripleaf anywhere"
 
 java {
